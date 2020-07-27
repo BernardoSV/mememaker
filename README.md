@@ -12,7 +12,7 @@ Projeto executado seguindo a [video aula](https://www.youtube.com/watch?v=Yajip8
 
 ## Preview
 
-<img src="./prevews/mememaker.gif" width="600px" align="center">
+<img src="./previews/mememaker.gif" width="600px" align="center">
 
 
 ## Instalação:
