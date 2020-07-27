@@ -25,7 +25,7 @@ Projeto executado seguindo a [video aula](https://www.youtube.com/watch?v=Yajip8
 - Clone este repositorio:
   > $ git clone https://github.com/maateusilva/mememaker.git
 
-- Instale o yarn (ou npx)
+- Instale o yarn (ou npm)
   > $ yarn install / npm install
 
 - Execute o comando baixo: 
